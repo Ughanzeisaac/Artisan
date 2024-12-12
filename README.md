@@ -1,2 +1,2 @@
 # Artisan
-API for Artisans
+API for Artisans (CraftBridge)
